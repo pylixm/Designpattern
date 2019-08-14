@@ -1,2 +1,3 @@
-# Learning_Designpattern
-23种设计模式代码实现
+## Learning_Designpattern
+
+23种设计模式python代码实现
